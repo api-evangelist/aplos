@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aplos is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.aplos.com/
+Aplos provides cloud‑based nonprofit accounting software designed to help charities, churches, and other mission‑driven organizations manage their finances, track donations, and stay compliant. The platform offers fund accounting, transaction management, advanced reporting, payroll, and AI‑powered bill entry, all tailored for the nonprofit sector. Aplos also delivers expert bookkeeping services and integrates with partners like Gusto to streamline payroll and benefits.
+
+**Areas:** Company · Accounting · Nonprofit · Software · Cloud
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.aplos.com/)
+- [Pricing](https://www.aplos.com/pricing)
+- [Sign up](https://www.aplos.com/signup)
+- [Support](https://help.aplos.com/)
+- [Security](https://www.aplos.com/security)
+- [Compliance](https://www.aplos.com/security)
+- [Terms of service](https://www.aplos.com/terms)
+- [Privacy policy](https://www.aplos.com/privacy)
+- [Status](https://status.aplos.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aplos/](https://apis.io/providers/aplos/).
